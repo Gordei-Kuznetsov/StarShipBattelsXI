@@ -1,0 +1,1 @@
+This is regular 2D space shooter game. Built using Windows Forms in VS. You can install this game by downloading the 'StarShipBattlesXIApp' folder and opening the 'Setup' file.

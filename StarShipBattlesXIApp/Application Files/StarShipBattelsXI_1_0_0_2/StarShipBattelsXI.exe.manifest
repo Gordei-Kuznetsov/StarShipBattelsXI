@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="StarShipBattelsXI.exe" version="1.0.0.2" publicKeyToken="109f0820a6c99342" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="hnet.com-image.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="StarShipBattelsXI" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="StarShipBattelsXI.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+             If you want to change the Windows User Account Control level replace the 
+             requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel element will disable file and registry virtualization. 
+            Remove this element if your application requires this virtualization for backwards
+            compatibility.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="StarShipBattelsXI.exe" size="1226720">
+      <assemblyIdentity name="StarShipBattelsXI" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>bfUYDeaweKEVttEJmtGnpL6ZGZ4L8NVVnCaFTecHhkI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="hnet.com-image.ico" size="6486">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>O8tYYDRGiXXt8LspkTUuFPoFbyD+ig6ysQw9oT4SRjg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="StarShipBattelsXI.exe.config" size="179">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>KK22eqIcmhgANdEql50c4Q2FO3lxhd2jbhnGHFL60ts=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of the Windows versions that this application has been tested on
+           and is designed to work with. Uncomment the appropriate elements
+           and Windows will automatically select the most compatible environment. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=LAPTOP-V3NKQHVT\64211" issuerKeyHash="faa502eff58197ea130b1866c6b3e93672345a06" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>V0Ov21867CnJFbFBdqm0TMudu0UKkI19K5f1rueqERQ=</DigestValue></Reference></SignedInfo><SignatureValue>BoMCFqejCsFW3BAiSdIZ2u7gJOYc8vXMdz6rqffsM2N4gFJpLGVmmoTL3uGDFh8XQQpy2nTnAK0ElnHHvL2uTl4bgSVoLJOl8fq+mt+p4WyJHQaOdRRAtfqzDOSvcDJNpCK4/p2iR3qQrs6WmvxeWqdOhug7J3+IZ6QxkAwMTVg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uMOiGCKzjtpHgX6zejvU//W1Y7rBjnapRAKM1j9inx7wf9RQvWTR29U4tVlNdLT+BCzKkWS3or3ieAowTbEB6ipcb/y6/kO/08sW4hgS+aJoQ0AJVHEhRkBlYWFK78Gt8F8SKxLi9dyCdcBBWRW92GLDsFlY4VJ6erk82SBKpEU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="1411aae7aef5972b7d8d900a45bb9dcb4cb4a97641b115c929ec3a5fdbaf4357" Description="" Url=""><as:assemblyIdentity name="StarShipBattelsXI.exe" version="1.0.0.2" publicKeyToken="109f0820a6c99342" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-V3NKQHVT\64211</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>HSCcDmzLjI1qHvX4IICdTdI0mQwu/42FOOmGLgf3mTI=</DigestValue></Reference></SignedInfo><SignatureValue>g69wgQd4S6ouLeyNIdjys2BHvvCaMTJriyYETxaoO4gss+eG3aNJQsqyM44gW7sir9rCUf4oHFWT7y313OqB/igAarZW9OP6cp/vNIBW+T7e8wpOTvAYA6LaOZuoGk4+6azv3qoNaVI375LC5WCTaWP1z59NS2h/nHTFplMA0Qg=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uMOiGCKzjtpHgX6zejvU//W1Y7rBjnapRAKM1j9inx7wf9RQvWTR29U4tVlNdLT+BCzKkWS3or3ieAowTbEB6ipcb/y6/kO/08sW4hgS+aJoQ0AJVHEhRkBlYWFK78Gt8F8SKxLi9dyCdcBBWRW92GLDsFlY4VJ6erk82SBKpEU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQFo1oeWEkhrdHYgC83GOYGDANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioATABBAFAAVABPAFAALQBWADMATgBLAFEASABWAFQAXAA2ADQAMgAxADEwHhcNMjAwNDA5MjI1NDMxWhcNMjEwNDEwMDQ1NDMxWjA1MTMwMQYDVQQDHioATABBAFAAVABPAFAALQBWADMATgBLAFEASABWAFQAXAA2ADQAMgAxADEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALjDohgis47aR4F+s3o71P/1tWO6wY52qUQCjNY/Yp8e8H/UUL1k0dvVOLVZTXS0/gQsypFkt6K94ngKME2xAeoqXG/8uv5Dv9PLFuIYEvmiaENACVRxIUZAZWFhSu/BrfBfEisS4vXcgnXAQVkVvdhiw7BZWOFSenq5PNkgSqRFAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAA3FNyLurkMiXvg/J/AdI4oAs3DBE+AYlBDupxlIk5dGLtW2McDLIxJ3gO9TISEBSzZd/OAAtDFACPOSglvEB9BOHlLyH7GzL9qTBjjNg1whWBtM9WZIhMjbFZBrvElc4pRvXl0PMm1YZ6Vp9xcDnjd/P7g06VASGfyefg4bMkQo=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

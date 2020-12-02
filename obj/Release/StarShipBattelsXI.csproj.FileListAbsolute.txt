@@ -1,0 +1,10 @@
+C:\Users\64211\source\repos\StarShipBattelsXI\bin\Release\StarShipBattelsXI.exe.config
+C:\Users\64211\source\repos\StarShipBattelsXI\bin\Release\StarShipBattelsXI.exe
+C:\Users\64211\source\repos\StarShipBattelsXI\bin\Release\StarShipBattelsXI.pdb
+C:\Users\64211\source\repos\StarShipBattelsXI\obj\Release\StarShipBattelsXI.csprojAssemblyReference.cache
+C:\Users\64211\source\repos\StarShipBattelsXI\obj\Release\StarShipBattelsXI.Form1.resources
+C:\Users\64211\source\repos\StarShipBattelsXI\obj\Release\StarShipBattelsXI.Form2.resources
+C:\Users\64211\source\repos\StarShipBattelsXI\obj\Release\StarShipBattelsXI.Properties.Resources.resources
+C:\Users\64211\source\repos\StarShipBattelsXI\obj\Release\StarShipBattelsXI.csproj.GenerateResource.cache
+C:\Users\64211\source\repos\StarShipBattelsXI\obj\Release\StarShipBattelsXI.exe
+C:\Users\64211\source\repos\StarShipBattelsXI\obj\Release\StarShipBattelsXI.pdb

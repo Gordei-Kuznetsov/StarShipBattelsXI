@@ -1,0 +1,55 @@
+C:\Users\64211\source\repos\StarShipBattelsXI\bin\Debug\StarShipBattelsXI.exe.config
+C:\Users\64211\source\repos\StarShipBattelsXI\bin\Debug\StarShipBattelsXI.exe
+C:\Users\64211\source\repos\StarShipBattelsXI\bin\Debug\StarShipBattelsXI.pdb
+C:\Users\64211\source\repos\StarShipBattelsXI\obj\Debug\StarShipBattelsXI.csprojAssemblyReference.cache
+C:\Users\64211\source\repos\StarShipBattelsXI\obj\Debug\StarShipBattelsXI.Form1.resources
+C:\Users\64211\source\repos\StarShipBattelsXI\obj\Debug\StarShipBattelsXI.Form2.resources
+C:\Users\64211\source\repos\StarShipBattelsXI\obj\Debug\StarShipBattelsXI.Properties.Resources.resources
+C:\Users\64211\source\repos\StarShipBattelsXI\obj\Debug\StarShipBattelsXI.csproj.GenerateResource.cache
+C:\Users\64211\source\repos\StarShipBattelsXI\obj\Debug\StarShipBattelsXI.exe
+C:\Users\64211\source\repos\StarShipBattelsXI\obj\Debug\StarShipBattelsXI.pdb
+C:\Users\64211\source\repos\StarShipBattelsXI - Copy\bin\Debug\StarShipBattelsXI.exe.config
+C:\Users\64211\source\repos\StarShipBattelsXI - Copy\bin\Debug\StarShipBattelsXI.exe
+C:\Users\64211\source\repos\StarShipBattelsXI - Copy\bin\Debug\StarShipBattelsXI.pdb
+C:\Users\64211\source\repos\StarShipBattelsXI - Copy\obj\Debug\StarShipBattelsXI.csprojAssemblyReference.cache
+C:\Users\64211\source\repos\StarShipBattelsXI - Copy\obj\Debug\StarShipBattelsXI.Form1.resources
+C:\Users\64211\source\repos\StarShipBattelsXI - Copy\obj\Debug\StarShipBattelsXI.Form2.resources
+C:\Users\64211\source\repos\StarShipBattelsXI - Copy\obj\Debug\StarShipBattelsXI.Properties.Resources.resources
+C:\Users\64211\source\repos\StarShipBattelsXI - Copy\obj\Debug\StarShipBattelsXI.csproj.GenerateResource.cache
+C:\Users\64211\source\repos\StarShipBattelsXI - Copy\obj\Debug\StarShipBattelsXI.exe
+C:\Users\64211\source\repos\StarShipBattelsXI - Copy\obj\Debug\StarShipBattelsXI.pdb
+C:\Users\64211\source\repos\StarShipBattelsXI - Copy\bin\Debug\StarShipBattelsXI.exe.manifest
+C:\Users\64211\source\repos\StarShipBattelsXI - Copy\bin\Debug\StarShipBattelsXI.application
+C:\Users\64211\source\repos\StarShipBattelsXI - Copy\obj\Debug\StarShipBattelsXI.TrustInfo.xml
+C:\Users\64211\source\repos\StarShipBattelsXI - Copy\obj\Debug\StarShipBattelsXI.exe.manifest
+C:\Users\64211\source\repos\StarShipBattelsXI - Copy\obj\Debug\StarShipBattelsXI.application
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI - Copy\bin\Debug\StarShipBattelsXI.exe.config
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI - Copy\bin\Debug\StarShipBattelsXI.exe.manifest
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI - Copy\bin\Debug\StarShipBattelsXI.application
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI - Copy\bin\Debug\StarShipBattelsXI.exe
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI - Copy\bin\Debug\StarShipBattelsXI.pdb
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI - Copy\obj\Debug\StarShipBattelsXI.csprojAssemblyReference.cache
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI - Copy\obj\Debug\StarShipBattelsXI.Form1.resources
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI - Copy\obj\Debug\StarShipBattelsXI.Form2.resources
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI - Copy\obj\Debug\StarShipBattelsXI.Properties.Resources.resources
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI - Copy\obj\Debug\StarShipBattelsXI.csproj.GenerateResource.cache
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI - Copy\obj\Debug\StarShipBattelsXI.TrustInfo.xml
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI - Copy\obj\Debug\StarShipBattelsXI.exe.manifest
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI - Copy\obj\Debug\StarShipBattelsXI.application
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI - Copy\obj\Debug\StarShipBattelsXI.exe
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI - Copy\obj\Debug\StarShipBattelsXI.pdb
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI\bin\Debug\StarShipBattelsXI.exe.config
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI\bin\Debug\StarShipBattelsXI.exe.manifest
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI\bin\Debug\StarShipBattelsXI.application
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI\bin\Debug\StarShipBattelsXI.exe
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI\bin\Debug\StarShipBattelsXI.pdb
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI\obj\Debug\StarShipBattelsXI.csprojAssemblyReference.cache
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI\obj\Debug\StarShipBattelsXI.Form1.resources
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI\obj\Debug\StarShipBattelsXI.Form2.resources
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI\obj\Debug\StarShipBattelsXI.Properties.Resources.resources
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI\obj\Debug\StarShipBattelsXI.csproj.GenerateResource.cache
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI\obj\Debug\StarShipBattelsXI.TrustInfo.xml
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI\obj\Debug\StarShipBattelsXI.exe.manifest
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI\obj\Debug\StarShipBattelsXI.application
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI\obj\Debug\StarShipBattelsXI.exe
+C:\Users\64211\source\repos\PersonalStuff\StarShipBattelsXI\obj\Debug\StarShipBattelsXI.pdb
